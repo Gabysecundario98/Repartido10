@@ -1,4 +1,5 @@
-
+import moment from "moment";
+//const moment = require("moment");
 
 //EJERCICIO 1
 
@@ -14,10 +15,10 @@ showDate();*/
         //     W/MOMENT
 
 
-/*const moment = require("moment");
+
 
 const today= moment();
-console.log(today.format('YYYY MMMM Do'));*/
+console.log(today.format('YYYY MMMM Do'));
 
 
     //EJERCICIO 2
